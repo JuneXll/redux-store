@@ -33,7 +33,9 @@ WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
 
-
+<img width="1137" alt="Lowercase" src="">
+<img width="1137" alt="Lowercase" src="">
+<img width="1137" alt="Lowercase" src="">
 
 
 
